@@ -29,3 +29,13 @@ game28.dta
 
 # Log files
 warnings.log
+# Extensiones de sistema
+.DS_Store
+Thumbs.db
+
+# Carpetas de dependencias (si usas Node)
+node_modules/
+
+# Archivos de configuración local
+.env
+*.log
